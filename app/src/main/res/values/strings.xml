@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyBooksAPI</string>
+    <string name="please_search_the_books_app">Please Search the Books App!</string>
+    <string name="book_name">Book Name</string>
+    <string name="search">Search</string>
+    <string name="author">Author</string>
+</resources>
